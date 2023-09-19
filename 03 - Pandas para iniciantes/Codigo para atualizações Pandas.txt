@@ -1,0 +1,2 @@
+pip install --upgrade numpy
+pip install --upgrade pandas
