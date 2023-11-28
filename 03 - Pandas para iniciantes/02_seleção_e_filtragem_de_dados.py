@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1OTPOKUAnLEQPjxMRZV8aKzS6suijhT2p
 """
 
-# importando a biblioteca Pandas
+# importando a biblioteca 05 - Pandas
 import pandas as pd
 
 # Lendo arquivos HTML

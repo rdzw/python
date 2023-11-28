@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/gist/rdzw/9d74274378cec82677f44aee39eb1f45/01-leitura-e-escrita-de-arquivos.ipynb
 """
 
-# importando a biblioteca Pandas
+# importando a biblioteca 05 - Pandas
 import pandas as pd
 
 # lendo arquivo csv
