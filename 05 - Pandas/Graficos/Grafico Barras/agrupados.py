@@ -12,4 +12,6 @@ df = pd.DataFrame({"mulheres": [40, 10, 30],
                   index=["teatro", "escultura", "pintura"])
 barras = df.plot(kind="bar", legend=True, color=["yellow", "blue"])
 
+
+
 plt.show()

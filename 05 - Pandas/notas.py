@@ -3,6 +3,6 @@
 #
 import pandas as pd
 
-notas = pd.read_csv(r"C:\Users\rodrigo\Desktop\Nova pasta\python\Pandas\dados\notas.csv" , sep=";",
+notas = pd.read_csv(r"C:\Users\RODRIGO\Documents\python\05 - Pandas\dados\notas.csv" , sep=";",
                     names=['matricula','nota1','nota2'])
 print(notas)
