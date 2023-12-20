@@ -1,5 +1,4 @@
 import math
-import teste
 
 
 def delta(a, b, c):
