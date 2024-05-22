@@ -1,0 +1,1 @@
+Escrevendo dado em outro arquivo python
