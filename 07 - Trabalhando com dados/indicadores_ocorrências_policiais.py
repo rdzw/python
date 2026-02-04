@@ -7,7 +7,7 @@ import pandas as pd
 #--------------------------------------------------------
 #importar a base de dados
 #--------------------------------------------------------
-df = pd.read_csv(r"C:\Users\RODRIGO\Documents\python\05 - Pandas\dados\zona leste.csv")
+df = pd.read_csv(r"C:\Users\RODRIGO\Documentos\python\05 - Pandas\dados\zona leste.csv")
 
 #Exibo as informações do DataFrame.
 print(df)
